@@ -1,0 +1,56 @@
+.divSpinner{ position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;}
+
+    .floating-action-button {
+        position: relative;
+        top: 100px;
+        margin-left: 50px;
+      }
+      ul.dropdown-menu {
+        box-shadow: none;
+        border: 0;
+        min-width:0;
+        background:transparent
+      }
+
+
+
+      .img-wrapper {
+        position: relative;
+       }
+      
+      .img-responsive {
+        width: 100%;
+        height: auto;
+      }
+      
+      .img-overlay {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        text-align: center;
+      }
+      
+      .img-overlay:before {
+        content: ' ';
+        display: block;
+        height: 50%;
+      }
+      .div-paginator{
+          display: table;
+          margin: 0 auto;
+          margin-top: 2rem;
+      }
+      .zoom{ 
+        display: block;
+        margin: 0 auto;
+      }
+
+

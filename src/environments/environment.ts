@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  api: 'http://interview.agileengine.com/',
+  apiKey: '23567b218376f79d9415',
+  token: null
 };
 
 /*
